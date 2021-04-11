@@ -1,0 +1,15 @@
+.inTouch{
+    background-color: white;
+    padding: 10px;
+}
+.socialInfo{
+    background-color: white;
+    overflow: auto;
+    margin-right: 20px;
+    margin-left: 10px;
+}
+
+/* input style */
+.form-horizontal > div{
+    width: 40%;
+}
